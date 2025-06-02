@@ -125,6 +125,8 @@ df.to_excel("Cleaned_Marketing_Data.xlsx", index=False)
 
  Exported cleaned dataset to Excel
 
+---
+[Interview Questions Based on This Task](interview_questions.md)
 
 
 
