@@ -61,7 +61,6 @@ df = df.drop_duplicates()
 print("Duplicates after:", df.duplicated().sum())
 ```
 ✔️ Ensured all records are unique
-[Output]()
 </details>
 
 <details> <summary>🔽 Step 4: Fix Inconsistent Categorical Values</summary>
